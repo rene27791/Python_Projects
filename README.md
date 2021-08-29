@@ -1,3 +1,3 @@
-# Python_Projects
+# Proyectos Personales
 
-Se supone que aqui colocaré todos mis codigos, pero no sé como conectarlo a mi pc 
+En esta carpeta colocaré mis proyectos personales, en futuro los separaré en repositorios por separados	
